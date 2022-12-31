@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.app-img {
+  height: 52px;
+  width: 52px;
+}
+.paragraph {
+  font-family: 'Bree Serif';
+}
+.each-list {
+  margin: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 140px;
+  width: 125px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+}
